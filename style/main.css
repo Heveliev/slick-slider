@@ -74,7 +74,7 @@ body {
     
 }
 .header{
-    border-bottom: solid 1px var(--header-border-color) ;
+background-color:blueviolet;
 
 }
 
@@ -160,7 +160,7 @@ body {
 
 
 .footer{
-    background-color: var(--secondary-background-color);
+    background-color:chocolate;
     padding: 60px 0;
 }
 
